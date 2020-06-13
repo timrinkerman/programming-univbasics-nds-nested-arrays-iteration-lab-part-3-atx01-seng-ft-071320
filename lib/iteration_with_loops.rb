@@ -11,5 +11,5 @@ def join_nested_strings(src)
     end
     row_index
   end
-end
 count 
+end 
